@@ -22,6 +22,8 @@
       - font-menlo-for-powerline
       - spotify
       - iterm2
+      - cyberduck
+      - eqmac
     brew_packages:
       - 'ansible'
       - 'ctop'
