@@ -1,10 +1,18 @@
-// Place your settings in this file to overwrite the default settings
 {
     "explorer.confirmDelete": false,
     "workbench.colorTheme": "One Dark Pro",
     "editor.acceptSuggestionOnEnter": "off",
-    "git.autofetch": true,
     "terminal.external.osxExec": "iTerm.app",
     "terminal.integrated.shell.osx": "/bin/zsh",
-    "terminal.integrated.fontFamily": "Menlo for Powerline"
+    "terminal.integrated.fontFamily": "Menlo for Powerline",
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+
+    "files.exclude": {
+        "**/.git": false,
+        "**/.svn": false,
+        "**/.hg": false,
+        "**/CVS": false,
+        "**/.DS_Store": true
+      }
 }
