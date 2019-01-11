@@ -1,7 +1,6 @@
 # env-config
 
 To install manually
-spaceship prompt
-vim configuration
-station
-unibox
+1) spaceship prompt
+2) vim configuration
+3) station
